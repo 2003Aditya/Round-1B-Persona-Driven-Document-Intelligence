@@ -3,10 +3,6 @@ __pycache__/
 *.pyo
 *.pyd
 node_modules/
-temp_output/
-output/
-*.pdf
-*.json
 *.log
 .DS_Store
 venv/
