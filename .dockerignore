@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+temp_output/
+output/
+*.pdf
+*.json
+*.log
+.DS_Store
+venv/
+.env
+.idea/
+.git/
+
